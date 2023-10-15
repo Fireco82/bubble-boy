@@ -1,4 +1,4 @@
-# bubble-boy
+# bubble-bowl
 makes and sorts numbers
 import java.io.*;
 import java.util.*;
